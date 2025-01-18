@@ -1,5 +1,5 @@
 # PhotoGallery
-A full-stack photo gallery website. My first full-stack web development project was done in high school for a project.
+A full-stack photo gallery website. My first full-stack web development project.
 
 ## Features
 
